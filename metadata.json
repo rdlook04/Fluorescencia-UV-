@@ -1,0 +1,6 @@
+{
+  "name": "Guía de Fluorescencia UV & Piel",
+  "description": "Explorador educativo interactivo de colores fluorescentes de la piel bajo la luz ultravioleta (Lámpara de Wood) y materiales cotidianos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
